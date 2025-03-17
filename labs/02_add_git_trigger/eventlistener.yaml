@@ -9,3 +9,4 @@ spec:
       - ref: ci-bindings
       template: 
         ref: cd-template
+        
